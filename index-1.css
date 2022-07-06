@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz@6..72&display=swap');
+
+
+.section-2 img {
+    width: 80%;
+    margin: 2%;
+}
+
+
+.section-4 img {
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+}
